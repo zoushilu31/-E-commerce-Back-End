@@ -21,19 +21,16 @@ This is a database application that allows the user to manipulate the database u
 
 ## Usage
 
-Once you've downloaded the code open the zipped folder in an IDE.
-
-Then update the .env file with your information. Run 'mysql -u root -p' and run the schema file.
+Update the .env file with your information. Run 'mysql -u root -p' and run the schema file.
 
 After you can run 'npm run seed' and 'npm run start' to test it out with Insomnia.
 
 Video Walkthrough: 
 
-![screenshot of application](./screenshot.png)
 
 ## Credits
 
-[Kyle Reynolds](https://github.com/zoushilu31) updated this code to follow accessibility standards.
+[Shilu Zou](https://github.com/zoushilu31) updated this code to follow accessibility standards.
 
 ## License
 
