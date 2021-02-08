@@ -15,7 +15,7 @@ This is a database application that allows the user to manipulate the database u
 
 ## Installation
 
-* Navigate to [https://github.com/reynolkb/e-commerce](https://github.com/reynolkb/e-commerce). 
+* Navigate to [https://github.com/zoushilu31/E-commerce-Back-End](https://github.com/zoushilu31/E-commerce-Back-End). 
 * Click the 'code' button and download the zip file.
 * Unzip the file on your computer.
 
@@ -27,13 +27,13 @@ Then update the .env file with your information. Run 'mysql -u root -p' and run 
 
 After you can run 'npm run seed' and 'npm run start' to test it out with Insomnia.
 
-Video Walkthrough: [https://youtu.be/_VJAKmPghMY](https://youtu.be/_VJAKmPghMY)
+Video Walkthrough: 
 
 ![screenshot of application](./screenshot.png)
 
 ## Credits
 
-[Kyle Reynolds](https://github.com/reynolkb) updated this code to follow accessibility standards.
+[Kyle Reynolds](https://github.com/zoushilu31) updated this code to follow accessibility standards.
 
 ## License
 
